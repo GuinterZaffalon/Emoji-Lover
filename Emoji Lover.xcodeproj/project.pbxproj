@@ -19,6 +19,7 @@
 		CC7F9E0D2AAB9FD900D9584F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CC7F9E0F2AAB9FDA00D9584F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC7F9E122AAB9FDA00D9584F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CC7F9E192AABAEAE00D9584F /* README.MD */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		CC7F9DFF2AAB9FD900D9584F = {
 			isa = PBXGroup;
 			children = (
+				CC7F9E192AABAEAE00D9584F /* README.MD */,
 				CC7F9E0A2AAB9FD900D9584F /* Emoji Lover */,
 				CC7F9E092AAB9FD900D9584F /* Products */,
 			);
